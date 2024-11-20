@@ -2,4 +2,4 @@
 # to use:
 
 1. `npm install`
-2. `./server.js`
+2. `sudo ./server.js`
